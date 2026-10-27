@@ -1,6 +1,6 @@
 # EA Formation — première version du site
 
-Site responsive en français : identité violet profond / vert citron, illustration locale originale, sans ressources graphiques externes ni outil de suivi.
+Site responsive en français : identité bleu ardoise / vert EA Formation, illustration locale originale, sans ressources graphiques externes ni outil de suivi.
 
 ## Développement
 
@@ -31,3 +31,7 @@ Le dépôt était vide. La consultation de `eaformation.fr` a été refusée par
 Le formulaire effectue uniquement une validation locale : il ne transmet ni ne conserve de message. Il doit être raccordé à un service avant utilisation réelle, avec protection antispam, information RGPD et tests d’envoi. Aucun compte ni espace apprenant fonctionnel n’est inclus.
 
 Voir `PUBLICATION.md` pour les informations nécessaires à la finalisation. Ne pas publier ce prototype comme un site officiel finalisé tant que les informations requises ne sont pas validées.
+
+## Identité graphique
+
+Logo récupéré le 27 octobre 2026 depuis le site officiel EA Formation (`wp-content/uploads/2022/10/eaformation_logo-300-transparent.png` et sa variante blanche). Couleurs principales relevées dans le logo : bleu `#414F71`, vert `#98BD54`. Les logos sont conservés localement : aucune ressource distante nécessaire à l’affichage. La consultation de Leader Academy reste bloquée par le réseau : son style n’a pas été vérifié et pourra être ajusté à partir de captures. La récupération du logo ne valide pas les autres contenus institutionnels.

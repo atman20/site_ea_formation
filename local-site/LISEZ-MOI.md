@@ -36,3 +36,7 @@ Le formulaire reste une démonstration et n'enregistre rien. Une API avec valida
 ## Contenus à finaliser
 
 Les informations officielles et les preuves Qualiopi n'ont pas encore été vérifiées. Consulter `PUBLICATION.md` : catalogue, contacts, certification, résultats, documents contractuels et mentions légales restent à valider. Il n'y a aucun traceur ni ressource externe intégrée.
+
+## Identité graphique
+
+Logo récupéré le 27 octobre 2026 depuis le site officiel EA Formation (`wp-content/uploads/2022/10/eaformation_logo-300-transparent.png` et sa variante blanche). Couleurs principales relevées dans le logo : bleu `#414F71`, vert `#98BD54`. Les logos sont conservés localement : aucune ressource distante nécessaire à l’affichage. La consultation de Leader Academy reste bloquée par le réseau : son style n’a pas été vérifié et pourra être ajusté à partir de captures. La récupération du logo ne valide pas les autres contenus institutionnels.
